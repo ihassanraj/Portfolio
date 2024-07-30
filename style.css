@@ -12,11 +12,11 @@ body {
 }
 
 h1 {
-    color: neon green;
-    font-family: 'Fast Track', sans-serif;
+    color: lime; /* Neon green is not a standard color name, using lime as a close alternative */
+    font-family: 'Faster One', sans-serif; /* Using Faster One as an alternative to Fast Track */
 }
 
 p {
-    color: neon blue;
+    color: #00FFFF; /* Using hex code for neon blue */
     font-family: 'Metal Mania', cursive;
 }
